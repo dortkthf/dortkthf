@@ -1,5 +1,13 @@
-![gettyimages-1318237065-594x594](README.assets/gettyimages-1318237065-594x594-16570999059846.jpg)
+# Lee Jun Yeop
 
-Hi, I'm Junyeop. I am interested in UFC and other boxing matches and I also like coding.
+![giphy](README.assets/giphy.gif)
 
-I'll be a good developer in the future. Please keep an eye on me. Thank you
+#### Hi, I'm Junyeop Lee.  
+
+#### Step by Step, Lets break the frame
+
+#### Lets go together
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dortkthf&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dortkthf)](https://solved.ac/백준아이디/)
