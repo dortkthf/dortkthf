@@ -4,6 +4,6 @@
 
 #### Hi, I'm Junyeop Lee. I like to workout at the gym
 
-#### I want to be a good developer. keep eyes on me. TY. Let's go!
+#### I want to be a good developer. keep eyes on me. TY. Let's get it!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dortkthf&theme=cobalt2)
+#### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dortkthf&theme=cobalt2)<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dortkthf">
