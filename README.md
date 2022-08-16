@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Lee Jun Yeop&fontSize=90)
 
-# 
-
 ![giphy](README.assets/giphy-16601895027391.gif)
 
 #### Hi, I'm Junyeop Lee. I like to workout at the gym
