@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Lee Jun Yeop&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=JunYeop&fontSize=90)
 
 ![giphy](README.assets/giphy-16601895027391.gif)
 
