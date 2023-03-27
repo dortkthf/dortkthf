@@ -3,8 +3,3 @@
 #### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dortkthf&show_icons=true&theme=cobalt2)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dortkthf&layout=compact&theme=cobalt2)
 
  
-
-
-
-
-
